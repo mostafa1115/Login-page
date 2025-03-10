@@ -191,7 +191,7 @@
     scale: 1.2;
     letter-spacing: 2px;
   }
-@media screen and (max-width:650px) {
+@media screen and (max-width:750px) {
     .container{
       height: calc(100vh - 40px);
     }.container.active{
