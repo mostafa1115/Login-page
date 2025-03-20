@@ -152,7 +152,7 @@
   } .container.active .formbox.register{
     visibility: visible;
   }.container.active .formbox.login {
-    visibility:0;
+    visibility: hidden;
    }
    .container.active .formbox{
     right: 50%;
@@ -195,7 +195,7 @@
     .container{
       height: calc(100vh - 40px);
     }.container.active{
-      height: calc(100vh;
+      height: calc(100vh);
     }
   .formbox{
       width: 100%;
